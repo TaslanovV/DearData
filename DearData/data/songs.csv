@@ -1,31 +1,91 @@
-Date,Song,Artist,BPM,Genre,Plays
-07/10/2026,STOP TRYING TO BE GOD,Travis Scott,150,hip-hop,12
-08/10/2026,Too Comfortable,Future,hip-hop, 8
-09/10/2026,COFFEE BEAN, Travis Scott,95,hip-hop, 10
-10/10/2026,NOBLE,F3miii,93,hip-hop,7
-11/10/2026,R.I.P.SCREW,Travis Scott,75,hip-hop,9
-12/10/2026,Whisper My Name,Drake,124,hip-hop,10
-13/10/2026,Jus'Know,BlackMayo,120,rnb,6
-14/10/2026,Forever ever,Trippie Redd,90,hip-hop,8
-15/10/2026,Wish I Never Met You-Prison tape,Tory Lanez,122,rnb,6
-16/10/2026,CAN'T SAY,Travis Scott,148,hip-hop,7
-17/10/2026,PUFFIN ON ZOOTIES,Future,125,hip-hop,6
-18/10/2026,Secondhand,Don Toliver,120,rnb,5
-19/10/2026,Yosemite,Travis Scott,128,hip-hop,4
-20/10/2026,The Color Violet,Tory Lanez,105,rnb,10
-21/10/2026,Feel No Ways,Drake,194,rnb,5
-22/10/2026,Habiba,Theodora,120,trap-pop,4
-23/10/2026,Quebec,Drake,87,hip-hop,6
-24/10/2026,New Bestie,Drake,125,hip-hop,7
-25/10/2026,Not You Too,Drake,86,rnb,14
-26/10/2026,Call back,Don Toliver,125,hip-hop
-27/10/2026,,
-28/10/2026,,
-29/10/2026,,
-30/10/2026,,
-31/10/2026,,
-01/10/2026,,
-02/10/2026,,
-03/10/2026,,
-04/10/2026,,
-05/10/2026,,
+Date,Period,Song,Artist,BPM,Genre,Plays
+07/10/2026,Morning,STOP TRYING TO BE GOD,Travis Scott,150,hip-hop,3
+07/10/2026,Evening,Flight's Booked,Drake,123,rnb,6
+07/10/2026,Night,first take,Travis Scott,71,hip-hop,5
+08/10/2026,Morning,Too Comfortable,Future,130,hip-hop,6
+08/10/2026,Evening,The One That Got Away,Katy Perry,134,pop,7
+08/10/2026,Night,2 Hard 4 The Radio,Drake,105,west coast hip-hop,4
+09/10/2026,Morning,COFFEE BEAN,Travis Scott,95,hip-hop,5
+09/10/2026,Evening,Solo,Future,111,hip-hop,6
+09/10/2026,Night,Malandrin,Beny Jr,100,spanish hip-hop,4
+10/10/2026,Morning,NOBLE,F3miii,93,rnb,7
+10/10/2026,Evening,Down In Atlanta,Pharrell Williams,167,hip-hop,7
+10/10/2026,Night,Redbone,Childish Gambino,80,rnb,5
+11/10/2026,Morning,R.I.P.SCREW,Travis Scott,75,hip-hop,4
+11/10/2026,Evening,What You Need,Don Toliver,130,rnb,4
+11/10/2026,Night,Swimming Pools (Drank),Kendrick Lamar,74,hip-hop,
+12/10/2026,Morning,Whisper My Name,Drake,124,hip-hop,4
+12/10/2026,Evening,Move,Adam Port,120,afro house,4
+12/10/2026,Night,XSCAPE,Don Toliver,101,rnb,3
+13/10/2026,Morning,Jus'Know,BlackMayo,120,rap,6
+13/10/2026,Evening,Professor X,Dave,127,uk rap,5
+13/10/2026,Night,No Role Modelz,J.Cole,100,hip-hop,4
+14/10/2026,Morning,Forever ever,Trippie Redd,90,hip-hop,8
+14/10/2026,Evening,Different Species,Offset,125,hip-hop,3
+14/10/2026,Night,Wrapped Around Your Finger,Post Malone,120,rnb,4
+15/10/2026,Morning,Wish I Never Met You-Prison tape,Tory Lanez,122,rnb,6
+15/10/2026,Evening,Talking Body,Tove Lo,120,dance-pop,5
+15/10/2026,Night,Like a Tattoo,Sade,136,soul,3
+16/10/2026,Morning,CAN'T SAY,Travis Scott,148,hip-hop,7
+16/10/2026,Evening,Road Trips,Drake,126,hip-hop,6
+16/10/2026,Night,DON'T YOU LIE,Offset,120,hip-hop,4
+17/10/2026,Morning,PUFFIN ON ZOOTIES,Future,125,hip-hop,5
+17/10/2026,Evening,NIGHTS LIKE THIS,The Kid LAROI,146,pop rap,6
+17/10/2026,Night,TMU,Don Toliver,139,hip-hop,3
+18/10/2026,Morning,Secondhand,Don Toliver,120,afrobeats,5
+18/10/2026,Evening,National Treasures,Drake,129,hip-hop,
+18/10/2026,Night,The Let Out,J.Cole,140,hip-hop,3
+19/10/2026,Morning,Yosemite,Travis Scott,128,hip-hop,4
+19/10/2026,Evening,Gemstone,Don Toliver,142,rnb,3
+19/10/2026,Night,Headlines,Drake,152,hip-hop,
+20/10/2026,Morning,The Color Violet,Tory Lanez,105,rnb,10
+20/10/2026,Evening,Lavender Sunflower,Tory Lanez,89,rnb,5
+20/10/2026,Night,Nokia,Drake,106,hip-hop,4
+21/10/2026,Morning,Feel No Ways,Drake,97,rnb,5
+21/10/2026,Evening,Long Way To Calabasas,Don Toliver,135,hip-hop,7
+21/10/2026,Night,Body,Don Toliver,73,trap,4
+22/10/2026,Morning,Habiba,Theodora,120,trap-pop,3
+22/10/2026,Evening,Plot Twist,Drake,123,hip-hop trap,5
+22/10/2026,Night,Ghostface Killers,21 Savage,83,hip-hop trap,4
+23/10/2026,Morning,Quebec,Drake,87,hip-hop,6
+23/10/2026,Evening,Die For You,The Weeknd,134,contemporary rnb,5
+23/10/2026,Night,Astrothunder,Travis Scott,152,hip-hop,3
+24/10/2026,Morning,New Bestie,Drake,125,hip-hop,7
+24/10/2026,Evening,Runnin,21 Savage,143,trap,4
+24/10/2026,Night,Raindrops (Insane),Metro Boomin,112,cloud rap,5
+25/10/2026,Morning,Not You Too,Drake,86,rnb,3
+25/10/2026,Evening,Stir Fry,Migos,91,hip-hop,5
+25/10/2026,Night,Shabang,Drake,117,hip-hop,2
+26/10/2026,Morning,Call back,Don Toliver,125,hip-hop,4
+26/10/2026,Evening,Locked out of Heaven,Bruno Mars,144,pop rock,5
+26/10/2026,Night,ball w/o you,21 Savage,138,trap,3
+27/10/2026,Morning,,,,,
+27/10/2026,Evening,,,,,
+27/10/2026,Night,,,,,
+28/10/2026,Morning,,,,,
+28/10/2026,Evening,,,,,
+28/10/2026,Night,,,,,
+29/10/2026,Morning,,,,,
+29/10/2026,Evening,,,,,
+29/10/2026,Night,,,,,
+30/10/2026,Morning,,,,,
+30/10/2026,Evening,,,,,
+30/10/2026,Night,,,,,
+31/10/2026,Morning,,,,,
+31/10/2026,Evening,,,,,
+31/10/2026,Night,,,,,
+01/11/2026,Morning,,,,,
+01/11/2026,Evening,,,,,
+01/11/2026,Night,,,,,
+02/11/2026,Morning,,,,,
+02/11/2026,Evening,,,,,
+02/11/2026,Night,,,,,
+03/11/2026,Morning,,,,,
+03/11/2026,Evening,,,,,
+03/11/2026,Night,,,,,
+04/11/2026,Morning,,,,,
+04/11/2026,Evening,,,,,
+04/11/2026,Night,,,,,
+05/11/2026,Morning,,,,,
+05/11/2026,Evening,,,,,
+05/11/2026,Night,,,,,
