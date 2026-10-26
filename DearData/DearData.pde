@@ -2,7 +2,7 @@ Table table;
 
 void setup() {
   size(800, 600);
-  table = loadTable("songs.csv");
+  table = loadTable("songs.csv", "header");
   }
 
 void draw() {
