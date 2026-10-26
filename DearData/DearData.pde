@@ -3,7 +3,7 @@ Table table;
 void setup() {
   size(800, 600);
   table = loadTable("songs.csv", "header");
-  }
+}
 
 void draw() {
   background(245);
@@ -21,7 +21,24 @@ void draw() {
     String Genre = row.getString("Genre");
     int Plays = row.getInt("Plays");
 
+    String group = groupGenre(Genre);
 
   }
+}
 
+
+String groupGenre(String genre) {
+  String lowerGenre = genre.toLowerCase();
+
+  if (lowerGenre.contains("rnb") || lowerGenre.contains("soul")) {
+    return "rnb";
+  } else if (lowerGenre.contains("hip-hop") || lowerGenre.contains("rap") || lowerGenre.contains("trap")) {
+    return "hip-hop";
+  } else if (lowerGenre.contains("afro") || lowerGenre.contains("house")) {
+    return "afro";
+  } else if (lowerGenre.contains("pop") || lowerGenre.contains("rock")) {
+    return "pop";
+  } else {
+    return "other";
+  }
 }
