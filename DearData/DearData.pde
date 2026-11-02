@@ -7,12 +7,8 @@ void setup() {
 
 void draw() {
   background(245);
-
-
   fill(20);
   circle(width / 2, height / 2, 560);
-
-
   fill(245);
   circle(width / 2, height / 2, 120);
   fill(35);
