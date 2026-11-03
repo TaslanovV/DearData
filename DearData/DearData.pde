@@ -16,7 +16,7 @@ void draw() {
   textSize(16);
   text("Dear Data", width / 2, height / 2);
 
-  for (TableRow row: table.rows()){
+  for (TableRow row : table.rows()) {
     String Date =row.getString("Date");
     String Song = row.getString("Song");
     String Artist = row.getString("Artist");
@@ -25,7 +25,6 @@ void draw() {
     int Plays = row.getInt("Plays");
 
     String group = groupGenre(Genre);
-
   }
 }
 
