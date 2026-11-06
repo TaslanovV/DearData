@@ -1,7 +1,7 @@
 Table table;
 
 void setup() {
-  size(800, 600);
+  size(1200, 800);
   table = loadTable("songs.csv", "header");
 }
 
@@ -15,6 +15,16 @@ void draw() {
   textAlign(CENTER, CENTER);
   textSize(16);
   text("Dear Data", width / 2, height / 2);
+
+  noFill();
+  strokeWeight(1);
+  stroke(147);
+  circle(width/2, height /2, 190);
+  circle(width/2, height /2, 280);
+  circle(width/2, height /2, 370);
+  circle(width/2, height /2, 450);
+  circle(width/2, height /2, 524);
+
 
   for (TableRow row : table.rows()) {
     String Date =row.getString("Date");
