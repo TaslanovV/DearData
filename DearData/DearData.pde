@@ -42,15 +42,19 @@ void draw() {
 String groupGenre(String genre) {
   String lowerGenre = genre.toLowerCase();
 
-  if (lowerGenre.contains("rnb") || lowerGenre.contains("soul")) {
+  if (lowerGenre.contains("soul") && !lowerGenre.contains("rnb")) {
+    return "soul";
+  } else if (lowerGenre.contains("rnb")) {
     return "rnb";
-  } else if (lowerGenre.contains("hip-hop") || lowerGenre.contains("rap") || lowerGenre.contains("trap")) {
+  } else if (lowerGenre.contains("trap")) {
+    return "trap";
+  } else if (lowerGenre.contains("hip-hop") || lowerGenre.contains("rap")) {
     return "hip-hop";
-  } else if (lowerGenre.contains("afro") || lowerGenre.contains("house")) {
+  } else if (lowerGenre.contains("afro")) {
     return "afro";
-  } else if (lowerGenre.contains("pop") || lowerGenre.contains("rock")) {
-    return "pop";
+  } else if (lowerGenre.contains("house")) {
+    return "house";
   } else {
-    return "other";
+    return "pop";
   }
 }
