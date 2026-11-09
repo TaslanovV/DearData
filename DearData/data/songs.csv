@@ -1,82 +1,91 @@
-Date,Period,Song,Artist,BPM,Genre,Plays
-10/10/2026,Morning,NOBLE,F3miii,93,rnb,7
-10/10/2026,Evening,Down In Atlanta,Pharrell Williams,167,hip-hop,7
-10/10/2026,Night,Redbone,Childish Gambino,80,rnb,5
-11/10/2026,Morning,R.I.P.SCREW,Travis Scott,75,hip-hop,4
-11/10/2026,Evening,What You Need,Don Toliver,130,rnb,4
-11/10/2026,Night,Swimming Pools (Drank),Kendrick Lamar,74,hip-hop,5
-12/10/2026,Morning,Whisper My Name,Drake,124,hip-hop,4
-12/10/2026,Evening,Move,Adam Port,120,afro house,4
-12/10/2026,Night,XSCAPE,Don Toliver,101,rnb,3
-13/10/2026,Morning,Jus'Know,BlackMayo,120,rap,6
-13/10/2026,Evening,Professor X,Dave,127,uk rap,5
-13/10/2026,Night,No Role Modelz,J.Cole,100,hip-hop,4
-14/10/2026,Morning,Forever ever,Trippie Redd,90,hip-hop,8
-14/10/2026,Evening,Different Species,Offset,125,hip-hop,3
-14/10/2026,Night,Wrapped Around Your Finger,Post Malone,120,rnb,4
-15/10/2026,Morning,Wish I Never Met You-Prison tape,Tory Lanez,122,rnb,6
-15/10/2026,Evening,Talking Body,Tove Lo,120,dance-pop,5
-15/10/2026,Night,Like a Tattoo,Sade,136,soul,3
-16/10/2026,Morning,CAN'T SAY,Travis Scott,148,hip-hop,7
-16/10/2026,Evening,Road Trips,Drake,126,hip-hop,6
-16/10/2026,Night,DON'T YOU LIE,Offset,120,hip-hop,4
-17/10/2026,Morning,PUFFIN ON ZOOTIES,Future,125,hip-hop,5
-17/10/2026,Evening,NIGHTS LIKE THIS,The Kid LAROI,146,pop rap,6
-17/10/2026,Night,TMU,Don Toliver,139,hip-hop,3
-18/10/2026,Morning,Secondhand,Don Toliver,120,afrobeats,5
-18/10/2026,Evening,National Treasures,Drake,129,hip-hop,6
-18/10/2026,Night,The Let Out,J.Cole,140,hip-hop,3
-19/10/2026,Morning,Yosemite,Travis Scott,128,hip-hop,4
-19/10/2026,Evening,Gemstone,Don Toliver,142,rnb,3
-19/10/2026,Night,Headlines,Drake,152,hip-hop,6
-20/10/2026,Morning,The Color Violet,Tory Lanez,105,rnb,10
-20/10/2026,Evening,Lavender Sunflower,Tory Lanez,89,rnb,5
-20/10/2026,Night,Nokia,Drake,106,hip-hop,4
-21/10/2026,Morning,Feel No Ways,Drake,97,rnb,5
-21/10/2026,Evening,Long Way To Calabasas,Don Toliver,135,hip-hop,7
-21/10/2026,Night,Body,Don Toliver,73,trap,4
-22/10/2026,Morning,Habiba,Theodora,120,trap-pop,3
-22/10/2026,Evening,Plot Twist,Drake,123,hip-hop trap,5
-22/10/2026,Night,Ghostface Killers,21 Savage,83,hip-hop trap,4
-23/10/2026,Morning,Quebec,Drake,87,hip-hop,6
-23/10/2026,Evening,Die For You,The Weeknd,134,contemporary rnb,5
-23/10/2026,Night,Astrothunder,Travis Scott,152,hip-hop,3
-24/10/2026,Morning,New Bestie,Drake,125,hip-hop,7
-24/10/2026,Evening,Runnin,21 Savage,143,trap,4
-24/10/2026,Night,Raindrops (Insane),Metro Boomin,112,cloud rap,5
-25/10/2026,Morning,Not You Too,Drake,86,rnb,3
-25/10/2026,Evening,Stir Fry,Migos,91,hip-hop,5
-25/10/2026,Night,Shabang,Drake,117,hip-hop,2
-26/10/2026,Morning,Call back,Don Toliver,125,hip-hop,4
-26/10/2026,Evening,Locked out of Heaven,Bruno Mars,144,pop rock,5
-26/10/2026,Night,ball w/o you,21 Savage,138,trap,3
-27/10/2026,Morning,FREAKED OUT,Fat Papi,170,hip-hop,4
-27/10/2026,Evening,3am,Loe Shimmy,127,hip-hop,6
-27/10/2026,Night,Walk,Kodak Black,130,hip-hop,4
-28/10/2026,Morning,Bby WOW,Karol G,120,spanish pop,3
-28/10/2026,Evening,Lovesong,Adele,117,soul,5
-28/10/2026,Night,What Did I Miss?,Drake,126,hip-hop,4
-29/10/2026,Morning,OK,Kanye West,125,rap,5
-29/10/2026,Evening,Mafia,Travis Scott,110,hip-hop,3
-29/10/2026,Night,MY EYES,Travis Scott,119,cloud rap,6
-30/10/2026,Morning,NO BYSTANDERS,Travis Scott,147,crunk trap,4
-30/10/2026,Evening,WHO? WHAT!,Travis Scott,140,hip-hop,3
-30/10/2026,Night,NO SCRUBS,TLC,93,rnb,6
-31/10/2026,Morning,Pocketful of Sunshine,Natasha Bedingfield,110,pop,8
-31/10/2026,Evening,Closer,Ne-Yo,126,dance pop,5
-31/10/2026,Night,Do For Love,2Pac,95,pop rap,7
-01/11/2026,Morning,Pearls,Sade,86,smooth soul,5
-01/11/2026,Evening,Hot,INNA,130,electro house,4
-01/11/2026,Night,Leather Coat,Don Toliver,168,hip-hop,8
-02/11/2026,Morning,Nights,Frank Ocean,90,alternative rnb,6
-02/11/2026,Evening,Solar Eclipse,Drake,106,rnb trap-soul,4
-02/11/2026,Night,TBH,PARTYNEXTDOOR,125,alternative rnb,6
-03/11/2026,Morning,Too Many Nights,Metro Boomin,88,rap,5
-03/11/2026,Evening,Passionfruit,Drake,112,tropical house,6
-03/11/2026,Night,Astrothunder,Travis Scott,152,hip-hop,8
-04/11/2026,Morning,DUMBO,Travis Scott,137,hip-hop,7
-04/11/2026,Evening,goosebumps,Travis Scott,130,trap,5
-04/11/2026,Night,oh yeah?,Steve Lacey,144,alternative rnb,9
-05/11/2026,Morning,Solo,Future,111,hip-hop,6
-05/11/2026,Evening,TELEKINESIS,83,hip-hop,4
-05/11/2026,Night,Excavator,Don Toliver,139,trap,8
+Date,Period,Song,Artist,BPM,Genre,Group,Plays
+10/10/2026,Morning,NOBLE,F3miii,93,melodic rnb,rnb,7
+10/10/2026,Evening,Down In Atlanta,Pharrell Williams,167,southern hip-hop,hip-hop,7
+10/10/2026,Night,Redbone,Childish Gambino,80,psychedelic soul,soul,5
+11/10/2026,Morning,R.I.P.SCREW,Travis Scott,75,houston rap,hip-hop,4
+11/10/2026,Evening,What You Need,Don Toliver,130,melodic rnb,rnb,4
+11/10/2026,Night,Swimming Pools (Drank),Kendrick Lamar,74,west-coast rap,hip-hop,5
+12/10/2026,Morning,Whisper My Name,Drake,124,melodic rap,hip-hop,4
+12/10/2026,Evening,Move,Adam Port,120,afro house,afro,4
+12/10/2026,Night,XSCAPE,Don Toliver,101,melodic rnb,rnb,3
+13/10/2026,Morning,Jus'Know,BlackMayo,120,underground rap,hip-hop,6
+13/10/2026,Evening,Professor X,Dave,127,uk rap,hip-hop,5
+13/10/2026,Night,No Role Modelz,J.Cole,100,conscious hip-hop,hip-hop,4
+14/10/2026,Morning,Forever ever,Trippie Redd,90,melodic rap,hip-hop,8
+14/10/2026,Evening,Different Species,Offset,125,atlanta trap,trap,3
+14/10/2026,Night,Wrapped Around Your Finger,Post Malone,120,pop rnb,rnb,4
+15/10/2026,Morning,Wish I Never Met You-Prison tape,Tory Lanez,122,contemporary rnb,rnb,6
+15/10/2026,Evening,Talking Body,Tove Lo,120,electro pop,pop,5
+15/10/2026,Night,Like a Tattoo,Sade,136,acoustic soul,soul,3
+16/10/2026,Morning,CAN'T SAY,Travis Scott,148,psychedelic trap,trap,7
+16/10/2026,Evening,Road Trips,Drake,126,toronto rap,hip-hop,6
+16/10/2026,Night,DON'T YOU LIE,Offset,120,atlanta trap,trap,4
+17/10/2026,Morning,PUFFIN ON ZOOTIES,Future,125,atlanta trap,trap,5
+17/10/2026,Evening,NIGHTS LIKE THIS,The Kid LAROI,146,pop rap,hip-hop,6
+17/10/2026,Night,TMU,Don Toliver,139,melodic trap,trap,3
+18/10/2026,Morning,Secondhand,Don Toliver,120,afro fusion,afro,5
+18/10/2026,Evening,National Treasures,Drake,129,toronto rap,hip-hop,6
+18/10/2026,Night,The Let Out,J.Cole,140,lyrical rap,hip-hop,3
+19/10/2026,Morning,Yosemite,Travis Scott,128,melodic trap,trap,4
+19/10/2026,Evening,Gemstone,Don Toliver,142,psychedelic rnb,rnb,3
+19/10/2026,Night,Headlines,Drake,152,toronto rap,hip-hop,6
+20/10/2026,Morning,The Color Violet,Tory Lanez,105,contemporary rnb,rnb,10
+20/10/2026,Evening,Lavender Sunflower,Tory Lanez,89,acoustic rnb,rnb,5
+20/10/2026,Night,Nokia,Drake,106,dance rap,hip-hop,4
+21/10/2026,Morning,Feel No Ways,Drake,97,alternative rnb,rnb,5
+21/10/2026,Evening,Long Way To Calabasas,Don Toliver,135,melodic rap,hip-hop,7
+21/10/2026,Night,Body,Don Toliver,73,melodic trap,trap,4
+22/10/2026,Morning,Habiba,Theodora,120,french trap,trap,3
+22/10/2026,Evening,Plot Twist,Drake,123,trap rap,trap,5
+22/10/2026,Night,Ghostface Killers,21 Savage,83,atlanta trap,trap,4
+23/10/2026,Morning,Quebec,Drake,87,toronto rap,hip-hop,6
+23/10/2026,Evening,Die For You,The Weeknd,134,contemporary rnb,rnb,5
+23/10/2026,Night,Astrothunder,Travis Scott,152,psychedelic trap,trap,3
+24/10/2026,Morning,New Bestie,Drake,125,toronto rap,hip-hop,7
+24/10/2026,Evening,Runnin,21 Savage,143,atlanta trap,trap,4
+24/10/2026,Night,Raindrops (Insane),Metro Boomin,112,cloud rap,hip-hop,5
+25/10/2026,Morning,Not You Too,Drake,86,alternative rnb,rnb,3
+25/10/2026,Evening,Stir Fry,Migos,91,atlanta trap,trap,5
+25/10/2026,Night,Shabang,Drake,117,toronto rap,hip-hop,2
+26/10/2026,Morning,Call back,Don Toliver,125,melodic rap,hip-hop,4
+26/10/2026,Evening,Locked out of Heaven,Bruno Mars,144,pop rock,pop,5
+26/10/2026,Night,ball w/o you,21 Savage,138,melodic trap,trap,3
+27/10/2026,Morning,FREAKED OUT,Fat Papi,170,underground rap,hip-hop,4
+27/10/2026,Evening,3am,Loe Shimmy,127,melodic rap,hip-hop,6
+27/10/2026,Night,Walk,Kodak Black,130,florida rap,hip-hop,4
+28/10/2026,Morning,Bby WOW,Karol G,120,latin pop,pop,3
+28/10/2026,Evening,Lovesong,Adele,117,soul ballad,soul,5
+28/10/2026,Night,What Did I Miss?,Drake,126,toronto rap,hip-hop,4
+29/10/2026,Morning,OK,Kanye West,125,experimental rap,hip-hop,5
+29/10/2026,Evening,Mafia,Travis Scott,110,dark trap,trap,3
+29/10/2026,Night,MY EYES,Travis Scott,119,cloud rap,hip-hop,6
+30/10/2026,Morning,NO BYSTANDERS,Travis Scott,147,crunk trap,trap,4
+30/10/2026,Evening,WHO? WHAT!,Travis Scott,140,psychedelic trap,trap,3
+30/10/2026,Night,NO SCRUBS,TLC,93,90s rnb,rnb,6
+31/10/2026,Morning,Pocketful of Sunshine,Natasha Bedingfield,110,2000s pop,pop,8
+31/10/2026,Evening,Closer,Ne-Yo,126,dance pop,pop,5
+31/10/2026,Night,Do For Love,2Pac,95,west-coast rap,hip-hop,7
+01/11/2026,Morning,Pearls,Sade,86,smooth soul,soul,5
+01/11/2026,Evening,Hot,INNA,130,electro house,house,4
+01/11/2026,Night,Leather Coat,Don Toliver,168,melodic rap,hip-hop,8
+02/11/2026,Morning,Nights,Frank Ocean,90,alternative rnb,rnb,6
+02/11/2026,Evening,Solar Eclipse,Drake,106,trapsoul rnb,rnb,4
+02/11/2026,Night,TBH,PARTYNEXTDOOR,125,alternative rnb,rnb,6
+03/11/2026,Morning,Too Many Nights,Metro Boomin,88,trap rap,trap,5
+03/11/2026,Evening,Passionfruit,Drake,112,tropical house,house,6
+03/11/2026,Night,Astrothunder,Travis Scott,152,psychedelic trap,trap,8
+04/11/2026,Morning,DUMBO,Travis Scott,137,psychedelic trap,trap,7
+04/11/2026,Evening,goosebumps,Travis Scott,130,psychedelic trap,trap,5
+04/11/2026,Night,oh yeah?,Steve Lacey,144,alternative rnb,rnb,9
+05/11/2026,Morning,Solo,Future,111,atlanta trap,trap,6
+05/11/2026,Evening,TELEKINESIS,Travis Scott,83,psychedelic trap,trap,4
+05/11/2026,Night,Excavator,Don Toliver,139,melodic trap,trap,8
+06/11/2026,Morning,ATM,Don Toliver,170,rage trap,trap,4
+06/11/2026,Evening,No Photos,Don Toliver,134,melodic rap,hip-hop,5
+06/11/2026,Night,Raindance,Dave,107,uk afroswing,afro,8
+07/11/2026,Morning,Firework,Katy Perry,124,dance pop,pop,9
+07/11/2026,Evening,Back Home,Yeat,114,experimental rap,hip-hop,6
+07/11/2026,Night,Clarity,Zedd,128,progressive house,house,11
+08/11/2026,Morning,I Adore You,HUGEL,120,afro house,afro,6
+08/11/2026,Evening,Best You Had,Don Toliver,120,melodic rnb,rnb,8
+08/11/2026,Night,Trance,Metro Boomin,119,psychedelic trap,trap,7
